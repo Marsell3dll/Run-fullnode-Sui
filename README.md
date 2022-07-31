@@ -6,7 +6,7 @@
 ```
 rm -rf /var/sui/db /var/sui/genesis.blob $HOME/sui
 git clone https://github.com/MystenLabs/sui.git
-mkdir -p /var/sui/db 
+mkdir /var/sui/db 
 cd /root/sui
 ```
 
